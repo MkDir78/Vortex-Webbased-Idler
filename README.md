@@ -10,9 +10,9 @@
 #### 🔄 Neon Cyberpunk UI (Particles.js, animations, effects, sounds)
 #### 🔄 WebSocket real-time updates (no need to refresh to see changes)
 #### 🔄 Advanced error handling & logging
-#### 🔄 ASF-like trading, key redemption, and message handling
+#### 🔄 Trading, key redemption, and message handling
 #### 🔄 Offline farming mode (to avoid fake play status)
-#### 🔄 SteamGuard & ASF 2FA system
+#### 🔄 SteamGuard & 2FA system
 #### 🔄 Plugin system for custom extensions
 
 ## ⏳ Next Steps:
