@@ -15,7 +15,7 @@
 ### 🔄 SteamGuard & ASF 2FA system
 ### 🔄 Plugin system for custom extensions
 
-## ⏳ Next Steps:
-## 🔜 STM-like trade integration
-## 🔜 Full UI polish & effects
-## 🔜 Final testing & bug fixes
+#### ⏳ Next Steps:
+### 🔜 STM-like trade integration
+### 🔜 Full UI polish & effects
+### 🔜 Final testing & bug fixes
